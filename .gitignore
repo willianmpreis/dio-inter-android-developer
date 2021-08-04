@@ -83,3 +83,20 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# DioInterAndroidDeveloper
+/DioInterAndroidDeveloper/*.iml
+/DioInterAndroidDeveloper/.gradle
+/DioInterAndroidDeveloper/local.properties
+/DioInterAndroidDeveloper/.idea/caches
+/DioInterAndroidDeveloper/.idea/libraries
+/DioInterAndroidDeveloper/.idea/modules.xml
+/DioInterAndroidDeveloper/.idea/workspace.xml
+/DioInterAndroidDeveloper/.idea/navEditor.xml
+/DioInterAndroidDeveloper/.idea/assetWizardSettings.xml
+/DioInterAndroidDeveloper/.DS_Store
+/DioInterAndroidDeveloper/build
+/DioInterAndroidDeveloper/captures
+/DioInterAndroidDeveloper/.externalNativeBuild
+/DioInterAndroidDeveloper/.cxx
+/DioInterAndroidDeveloper/local.properties
