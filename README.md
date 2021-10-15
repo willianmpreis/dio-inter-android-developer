@@ -3,17 +3,10 @@ Bootcamp que abrange as principais tecnologias utilizadas pelo Inter. O [Bootcam
 
 -----
 
-## [Projeto 1] App de Cartão de Visitas em Kotlin
-O [Projeto 1](https://github.com/willianmpreis/dio-inter-android-developer/tree/projeto-1) foi o Desenvolvimento de um App Android nativo para a criação e listagem dos cartões, os quais podem ter os seguintes dados: nome, empresa, telefone de contato, email e cor de fundo. Tudo isso utilizando o Room para armazenar os dados localmente. 
+## [Projeto Final] App para Apresentar o Portfólio do GitHub
+O [Projeto Final](https://github.com/willianmpreis/dio-inter-android-developer/tree/projeto-final) foi o Desenvolvimento de um App App Android para apresentar o portfólio de projetos do GitHub de maneira elegante e simplificada. 
 
 ![Alt text](/public/static/img/project_business_card.JPG?raw=true "Template")
 
 
-------
-
-## [Projeto Final] App para Apresentar o Portfólio do GitHub
-
-App Android para apresentar o portfólio de projetos do GitHub de maneira elegante e simplificada. 
-
-
-
+------ 
