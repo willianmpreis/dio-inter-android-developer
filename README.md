@@ -12,7 +12,7 @@ O [Projeto 1](https://github.com/willianmpreis/dio-inter-android-developer/tree/
 -----
 
 ## [Projeto Final] App para Apresentar o Portfólio do GitHub
-O [Projeto Final](https://github.com/willianmpreis/dio-inter-android-developer/tree/projeto-final) foi o Desenvolvimento de um App App Android para apresentar o portfólio de projetos do GitHub de maneira elegante e simplificada. 
+O [Projeto Final](https://github.com/willianmpreis/dio-inter-android-developer/tree/projeto-final) foi o Desenvolvimento de um App Android para apresentar o portfólio de projetos do GitHub de maneira elegante e simplificada. 
 
 ![Alt text](/public/static/img/projeto_portifolio_github.jpg?raw=true "Template")
 
