@@ -1,15 +1,17 @@
 package br.com.wmpr.diointerandroiddeveloper.ui
 
 import android.os.Bundle
-import android.util.Log
 import android.view.Menu
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SearchView
 import br.com.wmpr.diointerandroiddeveloper.R
 import br.com.wmpr.diointerandroiddeveloper.databinding.ActivityMainBinding
+import br.com.wmpr.diointerandroiddeveloper.presentation.MainViewModel
+import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
 
+    private val viewModel by viewModel<MainViewModel>()
     private val binding by lazy { ActivityMainBinding.inflate(layoutInflater) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -17,6 +19,9 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
         setContentView(binding.root)
 
         setSupportActionBar(binding.toolbar)
+        viewModel.repos.observe(this) {
+
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
